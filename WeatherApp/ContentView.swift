@@ -9,17 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
   var body: some View {
-    HStack {
-      Spacer()
-      
-      Text("Weather Forecast")
-      
-      Spacer()
-      
-      Button(action: {}) {
-        Image("menu-icon")
-      }
-    }
+    Text("Hello-World!")
   }
 }
 
